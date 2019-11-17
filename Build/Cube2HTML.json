@@ -1,0 +1,13 @@
+{
+"companyName": "Youssef ELS",
+"productName": "Cube Runner",
+"dataUrl": "Cube2HTML.data.unityweb",
+"wasmCodeUrl": "Cube2HTML.wasm.code.unityweb",
+"wasmFrameworkUrl": "Cube2HTML.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"}
+}
